@@ -27,6 +27,10 @@ Activate &  Deactivate the wall
 ![Alt text](/resources/images/walls.png?raw=true "angry-birds")
 * To activate or deactivate the wall press key w.
 
+License 
+-------
+MIT LICENSE. 
+
 Join the project
 ----------------
 The project is Open Source. Feel free to contribute.
